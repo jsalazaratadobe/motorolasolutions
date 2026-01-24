@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/motorolasolutions/language-masters/en:/",
+    "/content/motorolasolutions/language-masters/en/:/en/",
+    "/content/motorolasolutions/language-masters/fr/:/fr/",
+    "/content/motorolasolutions/language-masters/fr:/fr",
+    "/content/motorolasolutions/language-masters/es/:/es/",
+    "/content/motorolasolutions/language-masters/es:/es",
+    "/content/motorolasolutions/language-masters/ja/:/ja/",
+    "/content/motorolasolutions/language-masters/ja:/ja",
+    "/content/motorolasolutions/language-masters/de/:/de/",
+    "/content/motorolasolutions/language-masters/de:/de",
+    "/content/motorolasolutions/configuration:/.helix/config.json",
+    "/content/motorolasolutions/metadata:/metadata.json",
+    "/content/motorolasolutions/redirects:/redirects.json",
+    "/content/motorolasolutions/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/motorolasolutions/",
+    "/content/dam/motorolasolutions/"
   ]
 }
