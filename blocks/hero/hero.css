@@ -180,7 +180,7 @@
 .hero.image-background-text-left > div {
   text-align: left;
   max-width: 800px;
-  margin: 0;
+  margin: 30px;
 }
 
 /* Image Background Text Right - Text overlaid on background image, right-aligned */
