@@ -20,9 +20,10 @@ footer .footer p {
 }
 
 footer .footer img {
-  width: 100px;
+  width: 200px;
   height: auto;
   margin-bottom: 20px;
+  margin-left: -10px;
 }
 
 footer .footer a {
