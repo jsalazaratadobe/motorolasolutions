@@ -430,6 +430,7 @@ h1 {
 
 h2 {
   font-size: var(--heading-font-size-xl);
+  text-align: center;
 }
 
 h3 {
@@ -446,6 +447,7 @@ h5 {
 
 h6 {
   font-size: var(--heading-font-size-xs);
+  text-align: center;
 }
 
 p,
